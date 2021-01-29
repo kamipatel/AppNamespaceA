@@ -1,4 +1,3 @@
-kamlesh.patel-2glm@force.com
 
 sfdx force:auth:web:login --setdefaultdevhubusername 
 
